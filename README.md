@@ -15,4 +15,4 @@ For things that we can't put on the site, because we don't know what they are.
 **What**: A green pedestal with no markings.  
 **Where**: 22nd and Market.  
 **Discussion**: https://twitter.com/netsofphilly/status/1029371419413676032  
-**Explanation**: Not sure, might be related to the Electrical Bureau or SEPTA based on location, though green is sometimes a color for traffic signals. More pictures [[1]images/pedestal/green_1.jpg)][[2](images/pedestal/green_2.jpg)][[3](images/pedestal/green_3.jpg)].
+**Explanation**: Not sure, might be related to the Electrical Bureau or SEPTA based on location, though green is sometimes a color for traffic signals. More pictures [[1](images/pedestal/green_1.jpg)][[2](images/pedestal/green_2.jpg)][[3](images/pedestal/green_3.jpg)].
